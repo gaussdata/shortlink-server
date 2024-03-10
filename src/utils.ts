@@ -8,3 +8,13 @@ export function generateRandomStr(len: number) {
     }
     return str;
 }
+
+export const blockWords = [
+    'fuck',
+    'shit',
+    'gay',
+    'porn',
+    'sex',
+    'cunt',
+    'piss'
+]
